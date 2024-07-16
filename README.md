@@ -1,0 +1,1 @@
+prediksi harga saham PT Bank Central Asia Tbk dengan memanfaatkan Metode Simple Moving Average (SMA) dan Exponential Moving Average (EMA) selama periode 2018-2022. Tujuan utamanya adalah untuk mengevaluasi efektivitas kedua metode tersebut dalam memprediksi tren harga saham di pasar keuangan.
